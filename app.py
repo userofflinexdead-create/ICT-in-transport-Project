@@ -104,7 +104,7 @@ elif page == "Energy Usage":
             "⏰ **Smart Scheduling:** Running fewer transport fleets during off-peak hours based on real historical data predictions avoids empty trips.")
     
     st.markdown("### 4. Input Methods: Speech-to-Text (STT) vs. Touch Buttons")
-    st.warning("⚠️ **Energy Deficit Comparison:** Using STT (Speech-to-Text) requires heavy, continuous artificial intelligence computing power and active network transmission. This setup consumes **significantly more electrical energy** than standard touch or physical button inputs.")
+    st.warning("⚠️ **Energy Deficit Comparison:** Using STT (Speech-to-Text) requires heavy, continuous artificial intelligence computing power and active network transmission. This setup consumes **significantly more electrical energy** than a simple touch or physical button input.")
 
 # ----------------- CHALLENGES PAGE -----------------
 elif page == "Challenges":
